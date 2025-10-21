@@ -9,3 +9,10 @@ function btnDarkMode() {
     btn.classList.toggle('eventBtn')
     btnCircle.classList.toggle('eventBtnCircle')
 }
+
+
+$("#button").click(function() {
+  $('html, body').animate({
+    scrollTop: $("#assados").offset().top
+  }, 2000);
+});
