@@ -137,13 +137,30 @@ footer {
 }
 .escolha{
 
-  background-color: #01cbe6;
-  
-  
-  
-
-  
-
-  
-
+ 
 }
+
+
+a.escolha {
+  display: inline-block ;
+  background-color: #01cbe6;
+  color: white;
+  text-decoration: none;
+  text-align: center;
+
+  width: 9em ;
+  height: 2em;
+
+  border-radius: 5px;
+  gap: 5px;
+  margin: 5px;
+}
+
+
+  
+  
+
+  
+
+  
+
