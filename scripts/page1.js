@@ -11,8 +11,3 @@ function btnDarkMode() {
 }
 
 
-$("#button").click(function() {
-  $('html, body').animate({
-    scrollTop: $("#assados").offset().top
-  }, 2000);
-});

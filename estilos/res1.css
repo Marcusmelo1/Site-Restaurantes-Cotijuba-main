@@ -135,10 +135,7 @@ footer {
   text-align: center;
 
 }
-.escolha{
 
- 
-}
 
 
 a.escolha {
@@ -148,8 +145,8 @@ a.escolha {
   text-decoration: none;
   text-align: center;
 
-  width: 9em ;
-  height: 2em;
+  width: 8em ;
+  height: 1.5em;
 
   border-radius: 5px;
   gap: 5px;
