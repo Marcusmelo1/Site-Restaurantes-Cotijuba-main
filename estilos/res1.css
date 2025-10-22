@@ -9,7 +9,7 @@ body {
 header {
   position: relative;
   height: 220px;
-  background: url("/imagem/logo2.jpg") center/cover
+  background: url("logo2.jpg") center/cover
     no-repeat;
   display: flex;
   align-items: center;
