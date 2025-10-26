@@ -79,14 +79,6 @@ iframe {
   margin: 2rem 0;
 }
 
-.menu-section h2 {
-  font-size: 1.3rem;
-  color: #004d61;
-  margin-bottom: 1rem;
-  border-bottom: 2px solid #2d6a4f;
-  padding-bottom: 0.3rem;
-}
-
 .menu-item {
   display: flex;
   justify-content: space-between;
@@ -94,7 +86,7 @@ iframe {
   padding: 0.8rem;
   border-radius: 8px;
   margin-bottom: 0.8rem;
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.06);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.6);
 }
 
 .menu-item h3 {
@@ -125,7 +117,7 @@ footer {
   margin-top: 2rem;
 }
 
-#nova {
+.nova {
   text-decoration: none;
   border: none;
   border-radius: 5px;
@@ -135,8 +127,6 @@ footer {
   text-align: center;
 
 }
-
-
 
 a.escolha {
   display: inline-block ;
