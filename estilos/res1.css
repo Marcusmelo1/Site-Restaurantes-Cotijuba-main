@@ -1,3 +1,12 @@
+@charset "utf-8";
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
 body {
   margin: 0;
   font-family: "Poppins", sans-serif;
@@ -160,30 +169,18 @@ a.escolha {
 
   
   }
-  .tradução{
-  background-color:#2d6a4f;
-  position: fixed;
-  top: 70px;
-  right: 10px;
-  text-decoration: none;
-  color: white;
+ .icone_tradução {
+  position: absolute;
+  top: 32em;
+  right: 30px;
   
-  border: none;
-  border-radius: 4px;
-  width: 9.9em;
-  height: 1.5em;
-  }
+}
 
-  .tradução > a {
-    text-decoration: none;
-    color: white;
-  }
+.icone_tradução img {
+  width: 5em;
+  height: 5em;
+   mix-blend-mode: multiply;
+}
 
-  .instagram > a {
-    text-decoration: none;
-      font-family: "Poppins", sans-serif;
-
-  
-  }
   
 
